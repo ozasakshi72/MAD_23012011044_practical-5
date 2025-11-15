@@ -6,8 +6,8 @@ A Registration screen that allows new users to create an account by entering det
 Navigation between both screens is handled using the Navigation Component in Compose. The project focuses on UI design, input validation, state management, and maintaining a smooth user experience without using traditional XML layouts.
 <br>
 
-LoginScreen:
+LoginScreen:<br>
 <img width="139" height="312" alt="Picture2" src="https://github.com/user-attachments/assets/20483b33-cab3-4646-a582-940d6c075697" />
 
-RegisterScreen:
+RegisterScreen:<br>
 <img width="139" height="312" alt="Picture1" src="https://github.com/user-attachments/assets/9521e954-7016-4067-a3cf-b7df535b11d7" />
